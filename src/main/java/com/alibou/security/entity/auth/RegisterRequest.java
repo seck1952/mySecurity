@@ -1,10 +1,6 @@
-package com.alibou.security.auth;
+package com.alibou.security.entity.auth;
 
-import com.alibou.security.user.Role;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import com.alibou.security.entity.enums.Role;
 
 
 public class RegisterRequest {
